@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "POT_DU1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\radof\\Source\\Repos\\POT_CV1 /r3 "
+    }
+  }
+}

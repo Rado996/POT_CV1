@@ -16,7 +16,7 @@ namespace POT_CV1
             {
                 name = args[0];                
             }
-            Console.WriteLine($"{"Hello"}.{name}");
+            Console.WriteLine($"{"Hello"} {name}");
         }
     }
 }
